@@ -1,0 +1,6 @@
+# List of ignored files and folders
+
+bower_components/
+dist/
+locale/
+node_modules/
