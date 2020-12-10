@@ -238,7 +238,7 @@ var Sao = {};
     Sao.config.display_size = 20;
     Sao.config.roundup = {};
     Sao.config.roundup.url = 'http://bugs.tryton.org/roundup/';
-    Sao.config.title = 'Tryton';
+    Sao.config.title = 'Ceitcon';
     Sao.config.icon_color = '#3465a4';
     Sao.config.bus_timeout = 10 * 60 * 1000;
 
